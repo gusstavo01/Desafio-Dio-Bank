@@ -1,5 +1,5 @@
 # Desafio dio bank
--- Esse desafio foi proposto durante a formação FullStack em TypeScript na DIO
+- Esse desafio foi proposto durante a formação FullStack em TypeScript na DIO.
 
 ## Desafios
 ### [ ] Implementar os métodos de depósito (deposit) e saque (withdraw) na classe DioAccount
